@@ -1,1 +1,1 @@
-# Denoise-Image-Autoencoder
+# Denoising Image with Autoencoder in PyTorch
