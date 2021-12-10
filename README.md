@@ -1,6 +1,6 @@
 # Denoising Image with Autoencoder in PyTorch
 
-The purpose of this repository is to build an autoencoder in PyTorch in order to perform denoising operation on images. For that purpose, it loads MNIST image datsets and adds noises to every image. Later, an autoencoder is built and trained to reproduce actual images from noisy images.
+The purpose of this repository is to build an autoencoder in PyTorch in order to perform denoising operation on images. As a first step, it loads MNIST image datsets and adds noises to every image. Later, an autoencoder is built and trained to reproduce actual images from noisy images.
 
 In short, this repository performs the following operations:
 1. Loading the MNIST image dataset and exploring it along with visualization
